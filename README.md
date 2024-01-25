@@ -1,4 +1,4 @@
-# cplus_entrega_ej1
+# cpp_entrega_ej1
 Entrega Ejercicio 1 Laboratorio Computación I
 
 Una cafetería necesita un programa que le permita llevar un registro de las ventas de café durante una semana. El programa debe permitir registrar las ventas de los últimos 7 días. Por cada día se debe ingresar una cantidad desconocida de tazas de café vendidas y sus precios. El proceso de ingreso finaliza al introducir un X.
